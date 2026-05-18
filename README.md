@@ -183,7 +183,7 @@ PyTorch with CUDA is recommended. CPU-only inference works but is significantly 
 ## 👤 Author
 
 **Ammar Nasir**  
-Data & AI Engineer · Riyadh, Saudi Arabia
+AI Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-AmmarNasirEngr-181717?style=flat&logo=github)](https://github.com/AmmarNasirEngr)
 
